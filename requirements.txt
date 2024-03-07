@@ -1,0 +1,6 @@
+Pillow==10.2.0
+plyer==2.1.0
+PyQt5==5.15.10
+PyQt5_sip==12.13.0
+QtPy==2.0.1
+rembg==2.0.55
